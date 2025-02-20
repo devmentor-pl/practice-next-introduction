@@ -20,7 +20,7 @@
 
 &nbsp;
 
-:arrow_left: [*poprzedni zestaw zadań (**JavaScript:  ECMAScript2015+**)*](https://github.com/devmentor-pl/practice-ts-react)
+:arrow_left: [*poprzedni zestaw zadań (**TypeScript: React+**)*](https://github.com/devmentor-pl/practice-ts-react)
 
 ## Jak prawidłowo wykonać zadania?
 
