@@ -31,6 +31,7 @@ export default function RootLayout({
       <h1>Witaj</h1>
     </header> 
     <main>
+      {children}
     </main>
      <footer className={styles.footer}>
       <p>kontakt: mail@op.pl</p>
