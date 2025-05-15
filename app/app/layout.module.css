@@ -2,14 +2,29 @@
     background-color: #f5f5f5;
 }
 
-.header {
-  text-align: center;
-  font-weight: bold;
-  padding: 30px 0;
-}
+
 
 .footer {
   text-align: center;
   color: #555;
   border-top: 1px solid #ccc;
+}
+.headerWrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.header {
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin: 0 40px 0 0;
 }
