@@ -1,0 +1,17 @@
+{
+  "node": {
+    "40c99f331806b77c60428316612fe06db426b9728c": {
+      "workers": {
+        "app/contact/page": {
+          "moduleId": "[project]/.next-internal/server/app/contact/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/contact/lib/resend.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/contact/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "gZZZ+CQ7SgNaBr3lj0s4SW4A2gwY3FgN5ntGAeTnskg="
+}
