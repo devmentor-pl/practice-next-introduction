@@ -10,6 +10,8 @@ Zainstaluj *Next.js* w katalogu `app`, podczas instalacji wybierz opcje:
 - z użyciem App Routera 
 - bez Tailind CSS
 
+> **Uwaga** Pamiętaj, aby utworzyć w katalogu głownym plik `.gitignore` i wkleić tam zawartośc pliku `[app-next-dir]/.gitignore`
+
 
 &nbsp;
 > :no_entry: *Jeśli nie posiadasz materiałów do tego zadania tj. **PDF + wideo, projekt + Code Review**, znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/workshop-next-introduction)*
