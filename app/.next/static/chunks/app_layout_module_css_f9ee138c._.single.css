@@ -1,0 +1,32 @@
+/* [project]/app/layout.module.css [app-client] (css) */
+.layout-module__CUj6aG__header {
+  text-align: center;
+  background-color: #282c34;
+  padding: 1rem;
+}
+
+.layout-module__CUj6aG__header a {
+  color: #fff;
+  margin: 0 1rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.layout-module__CUj6aG__header a:hover {
+  text-decoration: underline;
+}
+
+.layout-module__CUj6aG__footer {
+  text-align: center;
+  background-color: #000;
+  margin-top: 2rem;
+  padding: 1rem;
+}
+
+.layout-module__CUj6aG__main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+/*# sourceMappingURL=app_layout_module_css_f9ee138c._.single.css.map*/
